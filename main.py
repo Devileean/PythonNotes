@@ -1,5 +1,5 @@
-import NotesApp
+import notes_app
 
 
 if __name__ == '__main__':
-    NotesApp.run()
+    notes_app.run()

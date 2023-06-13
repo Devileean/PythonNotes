@@ -1,6 +1,6 @@
 import json
 
-from viewNotes import ViewNotes
+from view_notes import ViewNotes
 from note import Note
 
 

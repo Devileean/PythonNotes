@@ -1,6 +1,6 @@
-from controllerNotes import ControllerNotes
-from modelNotes_json import NotesModelJSON
-from viewNotes import ViewNotes
+from controller_notes import ControllerNotes
+from model_notes_json import NotesModelJSON
+from view_notes import ViewNotes
 from note import Note
 
 import datetime
